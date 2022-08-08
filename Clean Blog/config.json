@@ -1,0 +1,25 @@
+{
+    "params":{
+        "local_server": "TRUE",
+        "local_url":"mysql://root:@localhost/anonymouscoders",
+        "prod_url":"Nothing now",
+        "blog_logo":"Anonymous Coders",
+        "facebook_url":"https://www.facebook.com/profile.php?id=100058457045851",
+        "twitter_url":"https://twitter.com",
+        "github_url":"https://github.com",
+        "sub_heading":"Heaven for Programmers",
+        "gmail-user":"waleedhsn569@gmail.com",
+        "gmail-password":"qwnebmkijhdbonsl",
+        "no_of_posts":3,
+        "login_logo":"login.svg",
+        "admin_username":"admin",
+        "admin_password":"admin",
+        "about_text":"My Name is Waleed and I made this website using Flask in python",
+        "upload_location":"C:\\Users\\Dell\\Documents\\Programming\\Flask\\Clean Blog\\uploaded files"
+
+
+    }
+
+
+
+}
